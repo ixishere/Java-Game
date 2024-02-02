@@ -1,0 +1,18 @@
+{
+    "telemetry.machineId": "dfe10e9cddc1b1a4d80d314943e377076913a5f426c274dc43058d6f35c9f116",
+    "openedPathsList": {
+        "workspaces3": [
+            {
+                "id": "58292993bca64ec1086b8d853763458a",
+                "configURIPath": "file:///e%3A/Workspaces/3DGame/.metadata/codemix.code-workspace"
+            },
+            {
+                "id": "3a87d6f0d2fc753432e5134b48e6b11d",
+                "configURIPath": "file:///d%3A/WorkSpaces/3DGame/.metadata/codemix.code-workspace"
+            }
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#221a0f"
+}
